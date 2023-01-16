@@ -83,10 +83,10 @@ body {
     background-color: hsl(225, 100%, 98%);
 }
 
-.plan:nth-child(3) {
+/* .plan:nth-child(3) {
     flex-direction: row;
     align-self: flex-end;
-}
+} */
 
 .music_icon_img {
     margin-right: 1.2rem;
